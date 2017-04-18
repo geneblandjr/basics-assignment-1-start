@@ -5,7 +5,7 @@ import { HttpModule } from '@angular/http';
 import { WarningComponent } from './Warning/warning.component';
 
 import { AppComponent } from './app.component';
-import { SuccessComponent } from './success/success.component';
+import { SuccessComponent } from './Success/success.component';
 import { MessagesComponent } from './messages/messages.component';
 
 @NgModule({
